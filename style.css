@@ -1,0 +1,45 @@
+body {
+
+    background-color:rgb(250, 185, 217);
+    text-align: center;
+}
+
+h1{
+   font-size: 36px;
+   color:antiquewhite;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 80px;
+} 
+
+p {
+    font-size: 24px;
+    color:rgb(174, 30, 107);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 50px;
+}
+
+main {
+    background-color: rgb(255, 227, 241);
+    border-width: thick;
+    border-style: dotted;
+    border-color:rgb(38, 11, 25); 
+    border-radius: 100px;
+}
+
+header {
+    background-color: rgb(38, 11, 25);
+    border-top-width:1px;
+    line-height: 80px;
+}
+
+button{
+   width: 100px; 
+   color:rgb(38, 11, 25); 
+  
+}
+
+div {
+   color:rgb(38, 11, 25); 
+    line-height: 50px;
+}
+
